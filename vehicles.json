@@ -1,0 +1,771 @@
+{
+  "metadata": {
+    "version": 1,
+    "generatedAt": "2025-12-04T22:03:26.406366Z",
+    "totalCount": 52,
+    "source": "ev-database.org"
+  },
+  "vehicles": [
+    {
+      "make": "Audi",
+      "model": "e-tron 55 quattro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 155,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1092/Audi-e-tron-55-quattro"
+    },
+    {
+      "make": "BMW",
+      "model": "i3 60 Ah",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 47,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1004/BMW-i3-60-Ah"
+    },
+    {
+      "make": "BMW",
+      "model": "i3 94 Ah",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 49,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1068/BMW-i3-94-Ah"
+    },
+    {
+      "make": "Citroën",
+      "model": "C-Zero",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 40,
+      "maxACPowerKW": 3.7,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1027/Citroen-C-Zero"
+    },
+    {
+      "make": "Ford",
+      "model": "Focus Electric",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1010/Ford-Focus-Electric"
+    },
+    {
+      "make": "Hyundai",
+      "model": "IONIQ Electric",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 69,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1057/Hyundai-IONIQ-Electric"
+    },
+    {
+      "make": "Kia",
+      "model": "Soul EV",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 50,
+      "maxACPowerKW": 3.6,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1012/Kia-Soul-EV"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "B 250e",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 9.6,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1013/Mercedes-Benz-B-250e"
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "i-MiEV",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 40,
+      "maxACPowerKW": 3.7,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1029/Mitsubishi-i-MiEV"
+    },
+    {
+      "make": "Nissan",
+      "model": "LEAF 24 kWh (MY11-13)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 46,
+      "maxACPowerKW": 3.3,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1011/Nissan-LEAF-24-kWh"
+    },
+    {
+      "make": "Nissan",
+      "model": "LEAF 24 kWh (MY14-17)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 46,
+      "maxACPowerKW": 3.3,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1019/Nissan-LEAF-24-kWh"
+    },
+    {
+      "make": "Nissan",
+      "model": "LEAF 30 kWh (MY15-17)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 47,
+      "maxACPowerKW": 3.3,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1020/Nissan-LEAF-30-kWh"
+    },
+    {
+      "make": "Nissan",
+      "model": "e-NV200 Evalia",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 46,
+      "maxACPowerKW": 3.6,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1021/Nissan-e-NV200-Evalia"
+    },
+    {
+      "make": "Opel",
+      "model": "Ampera-e",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 46,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1051/Opel-Ampera-e"
+    },
+    {
+      "make": "Peugeot",
+      "model": "iOn",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 40,
+      "maxACPowerKW": 3.7,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1028/Peugeot-iOn"
+    },
+    {
+      "make": "Renault",
+      "model": "Zoe Q210",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 33.0,
+      "defaultConnectors": [
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1026/Renault-Zoe-Q210"
+    },
+    {
+      "make": "Renault",
+      "model": "Zoe Q90",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 33.0,
+      "defaultConnectors": [
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1078/Renault-Zoe-Q90"
+    },
+    {
+      "make": "Renault",
+      "model": "Zoe R240",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1050/Renault-Zoe-R240"
+    },
+    {
+      "make": "Renault",
+      "model": "Zoe R90",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1077/Renault-Zoe-R90"
+    },
+    {
+      "make": "Renault",
+      "model": "Zoe R90 Entry",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1079/Renault-Zoe-R90-Entry"
+    },
+    {
+      "make": "Smart",
+      "model": "ForFour Electric Drive",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 4.6,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1091/Smart-ForFour-Electric-Drive"
+    },
+    {
+      "make": "Smart",
+      "model": "ForTwo Electric Drive",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 4.6,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1090/Smart-ForTwo-Electric-Drive"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 100D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 145,
+      "maxACPowerKW": 16.5,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1088/Tesla-Model-S-100D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 60",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1072/Tesla-Model-S-60"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 60D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1073/Tesla-Model-S-60D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 70",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1030/Tesla-Model-S-70"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 70",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1061/Tesla-Model-S-70"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 70D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1033/Tesla-Model-S-70D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 70D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1062/Tesla-Model-S-70D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 75",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 16.5,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1071/Tesla-Model-S-75"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 75D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 16.5,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1070/Tesla-Model-S-75D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 85",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1031/Tesla-Model-S-85"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 85D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1034/Tesla-Model-S-85D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 90D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1035/Tesla-Model-S-90D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S 90D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1063/Tesla-Model-S-90D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S P100D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 145,
+      "maxACPowerKW": 16.5,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1075/Tesla-Model-S-P100D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S P85D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1036/Tesla-Model-S-P85D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S P90D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1037/Tesla-Model-S-P90D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S P90D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1064/Tesla-Model-S-P90D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S P90DL",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1038/Tesla-Model-S-P90DL"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model S P90DL",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1065/Tesla-Model-S-P90DL"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model X 100D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 145,
+      "maxACPowerKW": 16.5,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1089/Tesla-Model-X-100D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model X 60D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1074/Tesla-Model-X-60D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model X 75D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 16.5,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1052/Tesla-Model-X-75D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model X 90D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1053/Tesla-Model-X-90D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model X P100D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 145,
+      "maxACPowerKW": 16.5,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1076/Tesla-Model-X-P100D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model X P90D",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1054/Tesla-Model-X-P90D"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model X P90DL",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1055/Tesla-Model-X-P90DL"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "e-Golf",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 44,
+      "maxACPowerKW": 3.7,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1040/Volkswagen-e-Golf"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "e-Golf",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 40,
+      "maxACPowerKW": 7.2,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1087/Volkswagen-e-Golf"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "e-Up!",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 37,
+      "maxACPowerKW": 3.7,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1041/Volkswagen-e-Up"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "e-Up!",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 37,
+      "maxACPowerKW": 3.7,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1081/Volkswagen-e-Up"
+    }
+  ]
+}
