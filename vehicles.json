@@ -1,11 +1,53 @@
 {
   "metadata": {
     "version": 1,
-    "generatedAt": "2025-12-18T15:30:59.299760+00:00Z",
-    "totalCount": 250,
+    "generatedAt": "2025-12-22T08:52:07.198538+00:00Z",
+    "totalCount": 573,
     "source": "ev-database.org"
   },
   "vehicles": [
+    {
+      "make": "Abarth",
+      "model": "500e Convertible",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 85,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1904/Abarth-500e-Convertible"
+    },
+    {
+      "make": "Abarth",
+      "model": "500e Hatchback",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 85,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1903/Abarth-500e-Hatchback"
+    },
+    {
+      "make": "Abarth",
+      "model": "500e Scorpionissima",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 85,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1790/Abarth-500e-Scorpionissima"
+    },
     {
       "make": "Aiways",
       "model": "U5",
@@ -21,6 +63,34 @@
       "url": "https://ev-database.org/car/1261/Aiways-U5"
     },
     {
+      "make": "Aiways",
+      "model": "U5",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 92,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1678/Aiways-U5"
+    },
+    {
+      "make": "Aiways",
+      "model": "U6",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 92,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1766/Aiways-U6"
+    },
+    {
       "make": "Audi",
       "model": "Q4 Sportback e-tron 35",
       "years": [
@@ -33,6 +103,48 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1290/Audi-Q4-Sportback-e-tron-35"
+    },
+    {
+      "make": "Audi",
+      "model": "Q4 Sportback e-tron 40",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 143,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1528/Audi-Q4-Sportback-e-tron-40"
+    },
+    {
+      "make": "Audi",
+      "model": "Q4 Sportback e-tron 45 quattro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1720/Audi-Q4-Sportback-e-tron-45-quattro"
+    },
+    {
+      "make": "Audi",
+      "model": "Q4 Sportback e-tron 50 quattro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1492/Audi-Q4-Sportback-e-tron-50-quattro"
     },
     {
       "make": "Audi",
@@ -64,6 +176,20 @@
     },
     {
       "make": "Audi",
+      "model": "Q4 e-tron 45 quattro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1527/Audi-Q4-e-tron-45-quattro"
+    },
+    {
+      "make": "Audi",
       "model": "Q4 e-tron 50 quattro",
       "years": [
         2024
@@ -78,6 +204,90 @@
     },
     {
       "make": "Audi",
+      "model": "Q8 SUV e-tron 50 quattro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 155,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1769/Audi-Q8-SUV-e-tron-50-quattro"
+    },
+    {
+      "make": "Audi",
+      "model": "Q8 SUV e-tron 55 quattro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 168,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1770/Audi-Q8-SUV-e-tron-55-quattro"
+    },
+    {
+      "make": "Audi",
+      "model": "Q8 Sportback e-tron 50 quattro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 155,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1771/Audi-Q8-Sportback-e-tron-50-quattro"
+    },
+    {
+      "make": "Audi",
+      "model": "Q8 Sportback e-tron 55 quattro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 168,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1772/Audi-Q8-Sportback-e-tron-55-quattro"
+    },
+    {
+      "make": "Audi",
+      "model": "SQ8 SUV e-tron",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 168,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1773/Audi-SQ8-SUV-e-tron"
+    },
+    {
+      "make": "Audi",
+      "model": "SQ8 Sportback e-tron",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 168,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1774/Audi-SQ8-Sportback-e-tron"
+    },
+    {
+      "make": "Audi",
       "model": "e-tron 50 quattro",
       "years": [
         2024
@@ -89,6 +299,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1209/Audi-e-tron-50-quattro"
+    },
+    {
+      "make": "Audi",
+      "model": "e-tron 50 quattro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1660/Audi-e-tron-50-quattro"
     },
     {
       "make": "Audi",
@@ -176,6 +400,20 @@
     },
     {
       "make": "Audi",
+      "model": "e-tron S",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 155,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1658/Audi-e-tron-S"
+    },
+    {
+      "make": "Audi",
       "model": "e-tron S Sportback",
       "years": [
         2024
@@ -190,6 +428,20 @@
     },
     {
       "make": "Audi",
+      "model": "e-tron S Sportback",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 155,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1659/Audi-e-tron-S-Sportback"
+    },
+    {
+      "make": "Audi",
       "model": "e-tron Sportback 50 quattro",
       "years": [
         2024
@@ -201,6 +453,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1247/Audi-e-tron-Sportback-50-quattro"
+    },
+    {
+      "make": "Audi",
+      "model": "e-tron Sportback 50 quattro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1661/Audi-e-tron-Sportback-50-quattro"
     },
     {
       "make": "Audi",
@@ -316,6 +582,34 @@
     },
     {
       "make": "BMW",
+      "model": "i4 M50",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1519/BMW-i4-M50"
+    },
+    {
+      "make": "BMW",
+      "model": "i4 eDrive35",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 180,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1785/BMW-i4-eDrive35"
+    },
+    {
+      "make": "BMW",
       "model": "i4 eDrive40",
       "years": [
         2024
@@ -327,6 +621,90 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1252/BMW-i4-eDrive40"
+    },
+    {
+      "make": "BMW",
+      "model": "i5 M60 xDrive Sedan",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 206,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1907/BMW-i5-M60-xDrive-Sedan"
+    },
+    {
+      "make": "BMW",
+      "model": "i5 eDrive40 Sedan",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 206,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1906/BMW-i5-eDrive40-Sedan"
+    },
+    {
+      "make": "BMW",
+      "model": "i7 M70 xDrive",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 200,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1838/BMW-i7-M70-xDrive"
+    },
+    {
+      "make": "BMW",
+      "model": "i7 eDrive50",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 200,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1905/BMW-i7-eDrive50"
+    },
+    {
+      "make": "BMW",
+      "model": "i7 xDrive60",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 200,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1676/BMW-i7-xDrive60"
+    },
+    {
+      "make": "BMW",
+      "model": "iX M60",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 195,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1590/BMW-iX-M60"
     },
     {
       "make": "BMW",
@@ -358,6 +736,34 @@
     },
     {
       "make": "BMW",
+      "model": "iX1 eDrive20",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 128,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1996/BMW-iX1-eDrive20"
+    },
+    {
+      "make": "BMW",
+      "model": "iX1 xDrive30",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 128,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1701/BMW-iX1-xDrive30"
+    },
+    {
+      "make": "BMW",
       "model": "iX3 (MY21)",
       "years": [
         2024
@@ -369,6 +775,202 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1136/BMW-iX3"
+    },
+    {
+      "make": "BMW",
+      "model": "iX3 (MY22-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 155,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1535/BMW-iX3"
+    },
+    {
+      "make": "BYD",
+      "model": "ATTO 3 (MY23-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 89,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1782/BYD-ATTO-3"
+    },
+    {
+      "make": "BYD",
+      "model": "DOLPHIN 44.9 kWh Active (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 60,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1917/BYD-DOLPHIN-449-kWh-Active"
+    },
+    {
+      "make": "BYD",
+      "model": "DOLPHIN 44.9 kWh Boost (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 60,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1918/BYD-DOLPHIN-449-kWh-Boost"
+    },
+    {
+      "make": "BYD",
+      "model": "DOLPHIN 60.4 kWh (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 88,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1919/BYD-DOLPHIN-604-kWh"
+    },
+    {
+      "make": "BYD",
+      "model": "HAN",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1784/BYD-HAN"
+    },
+    {
+      "make": "BYD",
+      "model": "SEAL 82.5 kWh AWD Excellence",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2002/BYD-SEAL-825-kWh-AWD-Excellence"
+    },
+    {
+      "make": "BYD",
+      "model": "SEAL 82.5 kWh RWD Design",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2001/BYD-SEAL-825-kWh-RWD-Design"
+    },
+    {
+      "make": "BYD",
+      "model": "TANG",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 120,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1783/BYD-TANG"
+    },
+    {
+      "make": "CUPRA",
+      "model": "Born 150 kW - 58 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 124,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1516/CUPRA-Born-150-kW---58-kWh"
+    },
+    {
+      "make": "CUPRA",
+      "model": "Born 170 kW - 58 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 124,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1517/CUPRA-Born-170-kW---58-kWh"
+    },
+    {
+      "make": "CUPRA",
+      "model": "Born 170 kW - 77 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1518/CUPRA-Born-170-kW---77-kWh"
+    },
+    {
+      "make": "CUPRA",
+      "model": "Tavascan Endurance",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 135,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1971/CUPRA-Tavascan-Endurance"
+    },
+    {
+      "make": "CUPRA",
+      "model": "Tavascan VZ",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 135,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1972/CUPRA-Tavascan-VZ"
     },
     {
       "make": "Citroën",
@@ -400,6 +1002,20 @@
     },
     {
       "make": "Citroën",
+      "model": "ë-Berlingo M 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1546/Citroen-e-Berlingo-M-50-kWh"
+    },
+    {
+      "make": "Citroën",
       "model": "ë-Berlingo Multispace",
       "years": [
         2024
@@ -414,6 +1030,20 @@
     },
     {
       "make": "Citroën",
+      "model": "ë-Berlingo XL 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1547/Citroen-e-Berlingo-XL-50-kWh"
+    },
+    {
+      "make": "Citroën",
       "model": "ë-C4",
       "years": [
         2024
@@ -425,6 +1055,132 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1286/Citroen-e-C4"
+    },
+    {
+      "make": "Citroën",
+      "model": "ë-C4",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1587/Citroen-e-C4"
+    },
+    {
+      "make": "Citroën",
+      "model": "ë-C4 54 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1938/Citroen-e-C4-54-kWh"
+    },
+    {
+      "make": "Citroën",
+      "model": "ë-C4 X",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1706/Citroen-e-C4-X"
+    },
+    {
+      "make": "Citroën",
+      "model": "ë-C4 X 54 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1939/Citroen-e-C4-X-54-kWh"
+    },
+    {
+      "make": "Citroën",
+      "model": "ë-Jumpy Combi M 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1595/Citroen-e-Jumpy-Combi-M-50-kWh"
+    },
+    {
+      "make": "Citroën",
+      "model": "ë-Jumpy Combi M 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1597/Citroen-e-Jumpy-Combi-M-75-kWh"
+    },
+    {
+      "make": "Citroën",
+      "model": "ë-Jumpy Combi XL 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1596/Citroen-e-Jumpy-Combi-XL-50-kWh"
+    },
+    {
+      "make": "Citroën",
+      "model": "ë-Jumpy Combi XL 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1598/Citroen-e-Jumpy-Combi-XL-75-kWh"
+    },
+    {
+      "make": "Citroën",
+      "model": "ë-Jumpy Combi XS 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1594/Citroen-e-Jumpy-Combi-XS-50-kWh"
     },
     {
       "make": "Citroën",
@@ -511,6 +1267,34 @@
       "url": "https://ev-database.org/car/1148/DS-Automobiles-DS-3-Crossback-E-Tense"
     },
     {
+      "make": "DS",
+      "model": "Automobiles DS 3 Crossback E-Tense",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1582/DS-Automobiles-DS-3-Crossback-E-Tense"
+    },
+    {
+      "make": "DS",
+      "model": "Automobiles DS 3 E-Tense",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1791/DS-Automobiles-DS-3-E-Tense"
+    },
+    {
       "make": "Dacia",
       "model": "Spring Electric",
       "years": [
@@ -523,6 +1307,48 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1319/Dacia-Spring-Electric"
+    },
+    {
+      "make": "Dacia",
+      "model": "Spring Electric",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 34,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1704/Dacia-Spring-Electric"
+    },
+    {
+      "make": "Dacia",
+      "model": "Spring Electric 45",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 34,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1705/Dacia-Spring-Electric-45"
+    },
+    {
+      "make": "Elaris",
+      "model": "BEO 86 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1975/Elaris-BEO-86-kWh"
     },
     {
       "make": "Fiat",
@@ -581,6 +1407,132 @@
       "url": "https://ev-database.org/car/1285/Fiat-500e-Hatchback-42-kWh"
     },
     {
+      "make": "Fiat",
+      "model": "600e",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1945/Fiat-600e"
+    },
+    {
+      "make": "Fiat",
+      "model": "E-Ulysse L2 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1721/Fiat-E-Ulysse-L2-50-kWh"
+    },
+    {
+      "make": "Fiat",
+      "model": "E-Ulysse L2 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1722/Fiat-E-Ulysse-L2-75-kWh"
+    },
+    {
+      "make": "Fiat",
+      "model": "E-Ulysse L3 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1723/Fiat-E-Ulysse-L3-50-kWh"
+    },
+    {
+      "make": "Fiat",
+      "model": "E-Ulysse L3 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1724/Fiat-E-Ulysse-L3-75-kWh"
+    },
+    {
+      "make": "Fisker",
+      "model": "Ocean Extreme",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1711/Fisker-Ocean-Extreme"
+    },
+    {
+      "make": "Fisker",
+      "model": "Ocean One",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1712/Fisker-Ocean-One"
+    },
+    {
+      "make": "Fisker",
+      "model": "Ocean Sport",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 200,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1709/Fisker-Ocean-Sport"
+    },
+    {
+      "make": "Fisker",
+      "model": "Ocean Ultra",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1710/Fisker-Ocean-Ultra"
+    },
+    {
       "make": "Ford",
       "model": "Focus Electric",
       "years": [
@@ -611,6 +1563,34 @@
     },
     {
       "make": "Ford",
+      "model": "Mustang Mach-E ER AWD (MY22)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 107,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1671/Ford-Mustang-Mach-E-ER-AWD"
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang Mach-E ER AWD (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 107,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1756/Ford-Mustang-Mach-E-ER-AWD"
+    },
+    {
+      "make": "Ford",
       "model": "Mustang Mach-E ER RWD (MY21)",
       "years": [
         2024
@@ -622,6 +1602,34 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1243/Ford-Mustang-Mach-E-ER-RWD"
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang Mach-E ER RWD (MY22)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 107,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1669/Ford-Mustang-Mach-E-ER-RWD"
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang Mach-E ER RWD (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 107,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1754/Ford-Mustang-Mach-E-ER-RWD"
     },
     {
       "make": "Ford",
@@ -639,6 +1647,34 @@
     },
     {
       "make": "Ford",
+      "model": "Mustang Mach-E GT (MY22)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 107,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1672/Ford-Mustang-Mach-E-GT"
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang Mach-E GT (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 107,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1757/Ford-Mustang-Mach-E-GT"
+    },
+    {
+      "make": "Ford",
       "model": "Mustang Mach-E SR AWD (MY21)",
       "years": [
         2024
@@ -653,6 +1689,34 @@
     },
     {
       "make": "Ford",
+      "model": "Mustang Mach-E SR AWD (MY22)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 109,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1670/Ford-Mustang-Mach-E-SR-AWD"
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang Mach-E SR AWD (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 109,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1755/Ford-Mustang-Mach-E-SR-AWD"
+    },
+    {
+      "make": "Ford",
       "model": "Mustang Mach-E SR RWD (MY21)",
       "years": [
         2024
@@ -664,6 +1728,104 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1242/Ford-Mustang-Mach-E-SR-RWD"
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang Mach-E SR RWD (MY22)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 109,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1668/Ford-Mustang-Mach-E-SR-RWD"
+    },
+    {
+      "make": "Ford",
+      "model": "Mustang Mach-E SR RWD (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 109,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1753/Ford-Mustang-Mach-E-SR-RWD"
+    },
+    {
+      "make": "Genesis",
+      "model": "G80 Electrified Luxury (MY22-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 187,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1703/Genesis-G80-Electrified-Luxury"
+    },
+    {
+      "make": "Genesis",
+      "model": "GV60 Premium (MY22-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 233,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1647/Genesis-GV60-Premium"
+    },
+    {
+      "make": "Genesis",
+      "model": "GV60 Sport (MY22-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 233,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1648/Genesis-GV60-Sport"
+    },
+    {
+      "make": "Genesis",
+      "model": "GV60 Sport Plus (MY22-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 233,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1649/Genesis-GV60-Sport-Plus"
+    },
+    {
+      "make": "Genesis",
+      "model": "GV70 Electrified Sport (MY22-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 233,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1725/Genesis-GV70-Electrified-Sport"
     },
     {
       "make": "Honda",
@@ -694,6 +1856,20 @@
       "url": "https://ev-database.org/car/1233/Honda-e-Advance"
     },
     {
+      "make": "Honda",
+      "model": "e:Ny1",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 78,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1940/Honda-eNy1"
+    },
+    {
       "make": "Hyundai",
       "model": "IONIQ 5 Long Range 2WD (MY21)",
       "years": [
@@ -709,6 +1885,20 @@
     },
     {
       "make": "Hyundai",
+      "model": "IONIQ 5 Long Range 2WD (MY22)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 233,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1662/Hyundai-IONIQ-5-Long-Range-2WD"
+    },
+    {
+      "make": "Hyundai",
       "model": "IONIQ 5 Long Range AWD (MY21)",
       "years": [
         2024
@@ -720,6 +1910,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1479/Hyundai-IONIQ-5-Long-Range-AWD"
+    },
+    {
+      "make": "Hyundai",
+      "model": "IONIQ 5 Long Range AWD (MY22)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 233,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1663/Hyundai-IONIQ-5-Long-Range-AWD"
     },
     {
       "make": "Hyundai",
@@ -762,6 +1966,48 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1477/Hyundai-IONIQ-5-Standard-Range-AWD"
+    },
+    {
+      "make": "Hyundai",
+      "model": "IONIQ 6 Long Range 2WD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 233,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1718/Hyundai-IONIQ-6-Long-Range-2WD"
+    },
+    {
+      "make": "Hyundai",
+      "model": "IONIQ 6 Long Range AWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 233,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1719/Hyundai-IONIQ-6-Long-Range-AWD"
+    },
+    {
+      "make": "Hyundai",
+      "model": "IONIQ 6 Standard Range 2WD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1717/Hyundai-IONIQ-6-Standard-Range-2WD"
     },
     {
       "make": "Hyundai",
@@ -835,6 +2081,20 @@
     },
     {
       "make": "Hyundai",
+      "model": "Kona Electric 48 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 75,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1829/Hyundai-Kona-Electric-48-kWh"
+    },
+    {
+      "make": "Hyundai",
       "model": "Kona Electric 64 kWh",
       "years": [
         2024
@@ -874,6 +2134,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1423/Hyundai-Kona-Electric-64-kWh"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Kona Electric 65 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 105,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1830/Hyundai-Kona-Electric-65-kWh"
     },
     {
       "make": "JAC",
@@ -932,6 +2206,20 @@
       "url": "https://ev-database.org/car/1287/Jaguar-I-Pace-EV400"
     },
     {
+      "make": "Jeep",
+      "model": "Avenger Electric 1st Edition",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1794/Jeep-Avenger-Electric-1st-Edition"
+    },
+    {
       "make": "Kia",
       "model": "EV6 GT",
       "years": [
@@ -986,6 +2274,76 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1480/Kia-EV6-Standard-Range-2WD"
+    },
+    {
+      "make": "Kia",
+      "model": "EV9 76.1 kWh RWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 210,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1833/Kia-EV9-761-kWh-RWD"
+    },
+    {
+      "make": "Kia",
+      "model": "EV9 99.8 kWh AWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 209,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1835/Kia-EV9-998-kWh-AWD"
+    },
+    {
+      "make": "Kia",
+      "model": "EV9 99.8 kWh AWD GT-Line",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 209,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1993/Kia-EV9-998-kWh-AWD-GT-Line"
+    },
+    {
+      "make": "Kia",
+      "model": "EV9 99.8 kWh RWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 209,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1834/Kia-EV9-998-kWh-RWD"
+    },
+    {
+      "make": "Kia",
+      "model": "Niro EV",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 80,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1666/Kia-Niro-EV"
     },
     {
       "make": "Kia",
@@ -1129,6 +2487,20 @@
     },
     {
       "make": "Kia",
+      "model": "e-Soul 39.2 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 44,
+      "maxACPowerKW": 7.2,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1750/Kia-e-Soul-392-kWh"
+    },
+    {
+      "make": "Kia",
       "model": "e-Soul 64 kWh",
       "years": [
         2024
@@ -1156,6 +2528,34 @@
       "url": "https://ev-database.org/car/1288/Kia-e-Soul-64-kWh"
     },
     {
+      "make": "Kia",
+      "model": "e-Soul 64 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 77,
+      "maxACPowerKW": 7.2,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1749/Kia-e-Soul-64-kWh"
+    },
+    {
+      "make": "Lexus",
+      "model": "RZ 450e (MY23-25)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 147,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1677/Lexus-RZ-450e"
+    },
+    {
       "make": "Lexus",
       "model": "UX 300e",
       "years": [
@@ -1168,6 +2568,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1251/Lexus-UX-300e"
+    },
+    {
+      "make": "Lexus",
+      "model": "UX 300e",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 50,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1943/Lexus-UX-300e"
     },
     {
       "make": "Lightyear",
@@ -1184,6 +2598,34 @@
       "url": "https://ev-database.org/car/1166/Lightyear-0"
     },
     {
+      "make": "Lotus",
+      "model": "Eletre",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 367,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1767/Lotus-Eletre"
+    },
+    {
+      "make": "Lotus",
+      "model": "Eletre R",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 367,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1768/Lotus-Eletre-R"
+    },
+    {
       "make": "Lucid",
       "model": "Air Dream Edition P",
       "years": [
@@ -1196,6 +2638,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1098/Lucid-Air-Dream-Edition-P"
+    },
+    {
+      "make": "Lucid",
+      "model": "Air Dream Edition R",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 300,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1696/Lucid-Air-Dream-Edition-R"
     },
     {
       "make": "Lucid",
@@ -1241,6 +2697,62 @@
     },
     {
       "make": "MG",
+      "model": "MG4 Electric 51 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 87,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1707/MG-MG4-Electric-51-kWh"
+    },
+    {
+      "make": "MG",
+      "model": "MG4 Electric 64 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 142,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1708/MG-MG4-Electric-64-kWh"
+    },
+    {
+      "make": "MG",
+      "model": "MG4 Electric 77 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 144,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1973/MG-MG4-Electric-77-kWh"
+    },
+    {
+      "make": "MG",
+      "model": "MG4 Electric XPOWER",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 142,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1944/MG-MG4-Electric-XPOWER"
+    },
+    {
+      "make": "MG",
       "model": "MG5 EV",
       "years": [
         2024
@@ -1255,6 +2767,20 @@
     },
     {
       "make": "MG",
+      "model": "MG5 EV Long Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 63,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1526/MG-MG5-EV-Long-Range"
+    },
+    {
+      "make": "MG",
       "model": "MG5 Electric Long Range",
       "years": [
         2024
@@ -1266,6 +2792,34 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1474/MG-MG5-Electric-Long-Range"
+    },
+    {
+      "make": "MG",
+      "model": "MG5 Electric Standard Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 63,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1646/MG-MG5-Electric-Standard-Range"
+    },
+    {
+      "make": "MG",
+      "model": "Marvel R",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 94,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1524/MG-Marvel-R"
     },
     {
       "make": "MG",
@@ -1296,6 +2850,62 @@
       "url": "https://ev-database.org/car/1201/MG-ZS-EV"
     },
     {
+      "make": "MG",
+      "model": "ZS EV Long Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 94,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1541/MG-ZS-EV-Long-Range"
+    },
+    {
+      "make": "MG",
+      "model": "ZS EV Standard Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 75,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1540/MG-ZS-EV-Standard-Range"
+    },
+    {
+      "make": "Maserati",
+      "model": "Grecale Folgore",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1843/Maserati-Grecale-Folgore"
+    },
+    {
+      "make": "Maxus",
+      "model": "MIFA 9",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 114,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1837/Maxus-MIFA-9"
+    },
+    {
       "make": "Mazda",
       "model": "MX-30",
       "years": [
@@ -1308,6 +2918,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1241/Mazda-MX-30"
+    },
+    {
+      "make": "Mazda",
+      "model": "MX-30",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 54,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1680/Mazda-MX-30"
     },
     {
       "make": "Mercedes-Benz",
@@ -1340,6 +2964,230 @@
     },
     {
       "make": "Mercedes-Benz",
+      "model": "EQA 250",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1697/Mercedes-Benz-EQA-250"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQA 250",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1984/Mercedes-Benz-EQA-250"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQA 250+",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 102,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1665/Mercedes-Benz-EQA-250plus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQA 250+",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 102,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1698/Mercedes-Benz-EQA-250plus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQA 250+",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 102,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1985/Mercedes-Benz-EQA-250plus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQA 300 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1495/Mercedes-Benz-EQA-300-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQA 300 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1986/Mercedes-Benz-EQA-300-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQA 350 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1496/Mercedes-Benz-EQA-350-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQA 350 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1987/Mercedes-Benz-EQA-350-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQB 250",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1664/Mercedes-Benz-EQB-250"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQB 250+",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 102,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1778/Mercedes-Benz-EQB-250plus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQB 250+",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 102,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1988/Mercedes-Benz-EQB-250plus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQB 300 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1559/Mercedes-Benz-EQB-300-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQB 300 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1989/Mercedes-Benz-EQB-300-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQB 350 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1493/Mercedes-Benz-EQB-350-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQB 350 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 112,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1990/Mercedes-Benz-EQB-350-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
       "model": "EQC 400 4MATIC",
       "years": [
         2024
@@ -1368,6 +3216,314 @@
     },
     {
       "make": "Mercedes-Benz",
+      "model": "EQE 300 (MY22-23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 170,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1713/Mercedes-Benz-EQE-300"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE 300 (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 170,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1897/Mercedes-Benz-EQE-300"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE 350 (MY22-23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 170,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1714/Mercedes-Benz-EQE-350"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE 350 (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 170,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1898/Mercedes-Benz-EQE-350"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE 350 4MATIC (MY22-23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1715/Mercedes-Benz-EQE-350-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE 350 4MATIC (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 170,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1899/Mercedes-Benz-EQE-350-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE 350+ (MY22-23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1538/Mercedes-Benz-EQE-350plus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE 350+ (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2006/Mercedes-Benz-EQE-350plus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE 500 4MATIC (MY22-23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1716/Mercedes-Benz-EQE-500-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE 500 4MATIC (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1900/Mercedes-Benz-EQE-500-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE AMG 43 4MATIC (MY22-23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1652/Mercedes-Benz-EQE-AMG-43-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE AMG 43 4MATIC (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1901/Mercedes-Benz-EQE-AMG-43-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE AMG 53 4MATIC+ (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1902/Mercedes-Benz-EQE-AMG-53-4MATICplus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE SUV 300 (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 170,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2007/Mercedes-Benz-EQE-SUV-300"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE SUV 350 4MATIC (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 170,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1761/Mercedes-Benz-EQE-SUV-350-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE SUV 350+ (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1760/Mercedes-Benz-EQE-SUV-350plus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE SUV 500 4MATIC (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1762/Mercedes-Benz-EQE-SUV-500-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE SUV AMG 43 4MATIC (MY23-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1763/Mercedes-Benz-EQE-SUV-AMG-43-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQE SUV AMG 53 4MATIC+ (MY23-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1764/Mercedes-Benz-EQE-SUV-AMG-53-4MATICplus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS 350",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 173,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1562/Mercedes-Benz-EQS-350"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS 450 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1699/Mercedes-Benz-EQS-450-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS 450 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2009/Mercedes-Benz-EQS-450-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
       "model": "EQS 450+",
       "years": [
         2024
@@ -1382,6 +3538,48 @@
     },
     {
       "make": "Mercedes-Benz",
+      "model": "EQS 450+",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2008/Mercedes-Benz-EQS-450plus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS 500 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1700/Mercedes-Benz-EQS-500-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS 500 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2010/Mercedes-Benz-EQS-500-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
       "model": "EQS 580 4MATIC",
       "years": [
         2024
@@ -1393,6 +3591,118 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1484/Mercedes-Benz-EQS-580-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS AMG 53 4MATIC+",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1537/Mercedes-Benz-EQS-AMG-53-4MATICplus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS SUV 450 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1674/Mercedes-Benz-EQS-SUV-450-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS SUV 450+",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1673/Mercedes-Benz-EQS-SUV-450plus"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS SUV 500 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1795/Mercedes-Benz-EQS-SUV-500-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS SUV 580 4MATIC",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 207,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1675/Mercedes-Benz-EQS-SUV-580-4MATIC"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQT 200 Standard",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 80,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1908/Mercedes-Benz-EQT-200-Standard"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQV 250 Extra-Long",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 80,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1543/Mercedes-Benz-EQV-250-Extra-Long"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQV 250 Long",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 80,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1542/Mercedes-Benz-EQV-250-Long"
     },
     {
       "make": "Mercedes-Benz",
@@ -1423,6 +3733,106 @@
       "url": "https://ev-database.org/car/1240/Mercedes-Benz-EQV-300-Long"
     },
     {
+      "make": "Mercedes-Benz",
+      "model": "eVito Tourer Extra-Long 41 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1614/Mercedes-Benz-eVito-Tourer-Extra-Long-41-kWh"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "eVito Tourer Extra-Long 60 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 110,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1618/Mercedes-Benz-eVito-Tourer-Extra-Long-60-kWh"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "eVito Tourer Extra-Long 90 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 110,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1616/Mercedes-Benz-eVito-Tourer-Extra-Long-90-kWh"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "eVito Tourer Long 41 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1613/Mercedes-Benz-eVito-Tourer-Long-41-kWh"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "eVito Tourer Long 60 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 110,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1617/Mercedes-Benz-eVito-Tourer-Long-60-kWh"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "eVito Tourer Long 90 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 110,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1615/Mercedes-Benz-eVito-Tourer-Long-90-kWh"
+    },
+    {
+      "make": "Mini",
+      "model": "Cooper E",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 70,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1997/Mini-Cooper-E"
+    },
+    {
       "make": "Mini",
       "model": "Cooper SE",
       "years": [
@@ -1451,6 +3861,62 @@
       "url": "https://ev-database.org/car/1409/Mini-Cooper-SE"
     },
     {
+      "make": "Mini",
+      "model": "Cooper SE",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 95,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1998/Mini-Cooper-SE"
+    },
+    {
+      "make": "Mini",
+      "model": "Cooper SE Convertible",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 49,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1827/Mini-Cooper-SE-Convertible"
+    },
+    {
+      "make": "Mini",
+      "model": "Countryman E",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 128,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1994/Mini-Countryman-E"
+    },
+    {
+      "make": "Mini",
+      "model": "Countryman SE ALL4",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 128,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1995/Mini-Countryman-SE-ALL4"
+    },
+    {
       "make": "Mitsubishi",
       "model": "i-MiEV",
       "years": [
@@ -1477,6 +3943,146 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1096/Mitsubishi-i-MiEV"
+    },
+    {
+      "make": "NIO",
+      "model": "EL6 Long Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 180,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1922/NIO-EL6-Long-Range"
+    },
+    {
+      "make": "NIO",
+      "model": "EL6 Standard Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 140,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1921/NIO-EL6-Standard-Range"
+    },
+    {
+      "make": "NIO",
+      "model": "EL7 Long Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 127,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1789/NIO-EL7-Long-Range"
+    },
+    {
+      "make": "NIO",
+      "model": "EL7 Standard Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 140,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1788/NIO-EL7-Standard-Range"
+    },
+    {
+      "make": "NIO",
+      "model": "ET5 Long Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 127,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1787/NIO-ET5-Long-Range"
+    },
+    {
+      "make": "NIO",
+      "model": "ET5 Standard Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 140,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1786/NIO-ET5-Standard-Range"
+    },
+    {
+      "make": "NIO",
+      "model": "ET5 Touring Long Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 180,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1916/NIO-ET5-Touring-Long-Range"
+    },
+    {
+      "make": "NIO",
+      "model": "ET5 Touring Standard Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 140,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1915/NIO-ET5-Touring-Standard-Range"
+    },
+    {
+      "make": "NIO",
+      "model": "ET7 Long Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 127,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1752/NIO-ET7-Long-Range"
+    },
+    {
+      "make": "NIO",
+      "model": "ET7 Standard Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 140,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1751/NIO-ET7-Standard-Range"
     },
     {
       "make": "Nissan",
@@ -1592,6 +4198,20 @@
     },
     {
       "make": "Nissan",
+      "model": "LEAF 40 kWh (MY23-25)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 46,
+      "maxACPowerKW": 3.6,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1656/Nissan-LEAF-40-kWh"
+    },
+    {
+      "make": "Nissan",
       "model": "LEAF e+ 62 kWh (MY19-22)",
       "years": [
         2024
@@ -1603,6 +4223,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1144/Nissan-LEAF-eplus-62-kWh"
+    },
+    {
+      "make": "Nissan",
+      "model": "LEAF e+ 62 kWh (MY23-25)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 46,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CHAdeMO"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1657/Nissan-LEAF-eplus-62-kWh"
     },
     {
       "make": "Nissan",
@@ -1633,6 +4267,20 @@
       "url": "https://ev-database.org/car/1117/Nissan-e-NV200-Evalia"
     },
     {
+      "make": "ORA",
+      "model": "Funky Cat 48 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 64,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1781/ORA-Funky-Cat-48-kWh"
+    },
+    {
       "make": "Opel",
       "model": "Ampera-e",
       "years": [
@@ -1645,6 +4293,90 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1051/Opel-Ampera-e"
+    },
+    {
+      "make": "Opel",
+      "model": "Astra Electric",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1792/Opel-Astra-Electric"
+    },
+    {
+      "make": "Opel",
+      "model": "Astra Sports Tourer Electric",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1793/Opel-Astra-Sports-Tourer-Electric"
+    },
+    {
+      "make": "Opel",
+      "model": "Combo-e Life 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1544/Opel-Combo-e-Life-50-kWh"
+    },
+    {
+      "make": "Opel",
+      "model": "Combo-e Life XL 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1545/Opel-Combo-e-Life-XL-50-kWh"
+    },
+    {
+      "make": "Opel",
+      "model": "Corsa Electric 50 kWh (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1941/Opel-Corsa-Electric-50-kWh"
+    },
+    {
+      "make": "Opel",
+      "model": "Corsa Electric 51 kWh (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1942/Opel-Corsa-Electric-51-kWh"
     },
     {
       "make": "Opel",
@@ -1662,6 +4394,20 @@
     },
     {
       "make": "Opel",
+      "model": "Corsa-e (MY22-23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1585/Opel-Corsa-e"
+    },
+    {
+      "make": "Opel",
       "model": "Mokka-e",
       "years": [
         2024
@@ -1673,6 +4419,90 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1278/Opel-Mokka-e"
+    },
+    {
+      "make": "Opel",
+      "model": "Mokka-e 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1586/Opel-Mokka-e-50-kWh"
+    },
+    {
+      "make": "Opel",
+      "model": "Vivaro-e Combi L 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1601/Opel-Vivaro-e-Combi-L-50-kWh"
+    },
+    {
+      "make": "Opel",
+      "model": "Vivaro-e Combi L 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1603/Opel-Vivaro-e-Combi-L-75-kWh"
+    },
+    {
+      "make": "Opel",
+      "model": "Vivaro-e Combi M 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1600/Opel-Vivaro-e-Combi-M-50-kWh"
+    },
+    {
+      "make": "Opel",
+      "model": "Vivaro-e Combi M 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1602/Opel-Vivaro-e-Combi-M-75-kWh"
+    },
+    {
+      "make": "Opel",
+      "model": "Vivaro-e Combi S 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1599/Opel-Vivaro-e-Combi-S-50-kWh"
     },
     {
       "make": "Opel",
@@ -1774,6 +4604,48 @@
     },
     {
       "make": "Peugeot",
+      "model": "e-2008",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1584/Peugeot-e-2008"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-2008 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1946/Peugeot-e-2008-50-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-2008 54 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1947/Peugeot-e-2008-54-kWh"
+    },
+    {
+      "make": "Peugeot",
       "model": "e-208 (MY20-21)",
       "years": [
         2024
@@ -1785,6 +4657,202 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1168/Peugeot-e-208"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-208 (MY22)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1583/Peugeot-e-208"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-208 50 kWh (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1948/Peugeot-e-208-50-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-208 51 kWh (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1836/Peugeot-e-208-51-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-208 51 kWh (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1949/Peugeot-e-208-51-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-3008 73 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 160,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2003/Peugeot-e-3008-73-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-3008 73 kWh Dual Motor",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 160,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2004/Peugeot-e-3008-73-kWh-Dual-Motor"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-3008 97 kWh Long Range",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 160,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2005/Peugeot-e-3008-97-kWh-Long-Range"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-Expert Combi Compact 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1604/Peugeot-e-Expert-Combi-Compact-50-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-Expert Combi Long 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1606/Peugeot-e-Expert-Combi-Long-50-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-Expert Combi Long 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1608/Peugeot-e-Expert-Combi-Long-75-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-Expert Combi Standard 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1605/Peugeot-e-Expert-Combi-Standard-50-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-Expert Combi Standard 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1607/Peugeot-e-Expert-Combi-Standard-75-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-Rifter Long 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1523/Peugeot-e-Rifter-Long-50-kWh"
+    },
+    {
+      "make": "Peugeot",
+      "model": "e-Rifter Standard 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1522/Peugeot-e-Rifter-Standard-50-kWh"
     },
     {
       "make": "Peugeot",
@@ -1914,6 +4982,20 @@
     },
     {
       "make": "Polestar",
+      "model": "2 Long Range Performance (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 149,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1777/Polestar-2-Long-Range-Performance"
+    },
+    {
+      "make": "Polestar",
       "model": "2 Long Range Single Motor",
       "years": [
         2024
@@ -1941,6 +5023,76 @@
       "url": "https://ev-database.org/car/1486/Polestar-2-Standard-Range-Single-Motor"
     },
     {
+      "make": "Polestar",
+      "model": "2 Standard Range Single Motor (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 136,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1654/Polestar-2-Standard-Range-Single-Motor"
+    },
+    {
+      "make": "Polestar",
+      "model": "3 Long Range Dual motor (MY23-25)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1758/Polestar-3-Long-Range-Dual-motor"
+    },
+    {
+      "make": "Polestar",
+      "model": "3 Long Range Performance (MY23-25)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1759/Polestar-3-Long-Range-Performance"
+    },
+    {
+      "make": "Polestar",
+      "model": "4 Long Range Dual Motor",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 200,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1842/Polestar-4-Long-Range-Dual-Motor"
+    },
+    {
+      "make": "Polestar",
+      "model": "4 Long Range Single Motor",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 200,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1841/Polestar-4-Long-Range-Single-Motor"
+    },
+    {
       "make": "Porsche",
       "model": "Taycan",
       "years": [
@@ -1953,6 +5105,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1393/Porsche-Taycan"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 223,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1923/Porsche-Taycan"
     },
     {
       "make": "Porsche",
@@ -1970,6 +5136,20 @@
     },
     {
       "make": "Porsche",
+      "model": "Taycan 4 Cross Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1929/Porsche-Taycan-4-Cross-Turismo"
+    },
+    {
+      "make": "Porsche",
       "model": "Taycan 4S",
       "years": [
         2024
@@ -1981,6 +5161,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1237/Porsche-Taycan-4S"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan 4S",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 223,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1925/Porsche-Taycan-4S"
     },
     {
       "make": "Porsche",
@@ -1998,6 +5192,20 @@
     },
     {
       "make": "Porsche",
+      "model": "Taycan 4S Cross Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1930/Porsche-Taycan-4S-Cross-Turismo"
+    },
+    {
+      "make": "Porsche",
       "model": "Taycan 4S Plus",
       "years": [
         2024
@@ -2009,6 +5217,76 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1238/Porsche-Taycan-4S-Plus"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan 4S Plus",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1926/Porsche-Taycan-4S-Plus"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan 4S Plus Sport Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1624/Porsche-Taycan-4S-Plus-Sport-Turismo"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan 4S Sport Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 223,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1623/Porsche-Taycan-4S-Sport-Turismo"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan GTS",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1560/Porsche-Taycan-GTS"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan GTS Sport Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1561/Porsche-Taycan-GTS-Sport-Turismo"
     },
     {
       "make": "Porsche",
@@ -2026,6 +5304,48 @@
     },
     {
       "make": "Porsche",
+      "model": "Taycan Plus",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1924/Porsche-Taycan-Plus"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan Plus Sport Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1622/Porsche-Taycan-Plus-Sport-Turismo"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan Sport Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 223,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1621/Porsche-Taycan-Sport-Turismo"
+    },
+    {
+      "make": "Porsche",
       "model": "Taycan Turbo",
       "years": [
         2024
@@ -2037,6 +5357,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1229/Porsche-Taycan-Turbo"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan Turbo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1927/Porsche-Taycan-Turbo"
     },
     {
       "make": "Porsche",
@@ -2054,6 +5388,20 @@
     },
     {
       "make": "Porsche",
+      "model": "Taycan Turbo Cross Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1931/Porsche-Taycan-Turbo-Cross-Turismo"
+    },
+    {
+      "make": "Porsche",
       "model": "Taycan Turbo S",
       "years": [
         2024
@@ -2065,6 +5413,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1116/Porsche-Taycan-Turbo-S"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan Turbo S",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1928/Porsche-Taycan-Turbo-S"
     },
     {
       "make": "Porsche",
@@ -2081,6 +5443,62 @@
       "url": "https://ev-database.org/car/1439/Porsche-Taycan-Turbo-S-Cross-Turismo"
     },
     {
+      "make": "Porsche",
+      "model": "Taycan Turbo S Cross Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1932/Porsche-Taycan-Turbo-S-Cross-Turismo"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan Turbo S Sport Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1626/Porsche-Taycan-Turbo-S-Sport-Turismo"
+    },
+    {
+      "make": "Porsche",
+      "model": "Taycan Turbo Sport Turismo",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 268,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1625/Porsche-Taycan-Turbo-Sport-Turismo"
+    },
+    {
+      "make": "Renault",
+      "model": "Kangoo E-Tech Electric",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 80,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1802/Renault-Kangoo-E-Tech-Electric"
+    },
+    {
       "make": "Renault",
       "model": "Kangoo Maxi ZE 33",
       "years": [
@@ -2094,6 +5512,48 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1101/Renault-Kangoo-Maxi-ZE-33"
+    },
+    {
+      "make": "Renault",
+      "model": "Megane E-Tech EV40 130hp",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 85,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1536/Renault-Megane-E-Tech-EV40-130hp"
+    },
+    {
+      "make": "Renault",
+      "model": "Megane E-Tech EV60 130hp",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 129,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1588/Renault-Megane-E-Tech-EV60-130hp"
+    },
+    {
+      "make": "Renault",
+      "model": "Megane E-Tech EV60 220hp",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 129,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1521/Renault-Megane-E-Tech-EV60-220hp"
     },
     {
       "make": "Renault",
@@ -2270,6 +5730,20 @@
       "url": "https://ev-database.org/car/1205/Renault-Zoe-ZE50-R135"
     },
     {
+      "make": "Rolls-Royce",
+      "model": "Spectre",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 195,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1765/Rolls-Royce-Spectre"
+    },
+    {
       "make": "SEAT",
       "model": "Mii Electric",
       "years": [
@@ -2296,6 +5770,62 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1357/Seres-3"
+    },
+    {
+      "make": "Smart",
+      "model": "#1 Pro+",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1667/Smart-1-Proplus"
+    },
+    {
+      "make": "Smart",
+      "model": "#1 Pulse",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1920/Smart-1-Pulse"
+    },
+    {
+      "make": "Smart",
+      "model": "#3 Brabus",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/2000/Smart-3-Brabus"
+    },
+    {
+      "make": "Smart",
+      "model": "#3 Pro+",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1999/Smart-3-Proplus"
     },
     {
       "make": "Smart",
@@ -2447,6 +5977,34 @@
       "url": "https://ev-database.org/car/1152/Sono-Sion"
     },
     {
+      "make": "SsangYong",
+      "model": "Korando e-Motion",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 74,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1589/SsangYong-Korando-e-Motion"
+    },
+    {
+      "make": "Subaru",
+      "model": "Solterra AWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 147,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1567/Subaru-Solterra-AWD"
+    },
+    {
       "make": "Tesla",
       "model": "Model 3 Long Range AWD",
       "years": [
@@ -2476,6 +6034,48 @@
     },
     {
       "make": "Tesla",
+      "model": "Model 3 Long Range AWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1525/Tesla-Model-3-Long-Range-AWD"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3 Long Range AWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1591/Tesla-Model-3-Long-Range-AWD"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3 Long Range AWD (Highland)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1992/Tesla-Model-3-Long-Range-AWD"
+    },
+    {
+      "make": "Tesla",
       "model": "Model 3 Long Range RWD",
       "years": [
         2024
@@ -2487,6 +6087,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1100/Tesla-Model-3-Long-Range-RWD"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3 Long Range RWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1976/Tesla-Model-3-Long-Range-RWD"
     },
     {
       "make": "Tesla",
@@ -2515,6 +6129,48 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1322/Tesla-Model-3-Performance"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3 Performance",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1620/Tesla-Model-3-Performance"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3 RWD (CATL LFP60)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 170,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1555/Tesla-Model-3-RWD"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model 3 RWD (Highland CATL LFP60)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 170,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1991/Tesla-Model-3-RWD"
     },
     {
       "make": "Tesla",
@@ -3245,6 +6901,20 @@
     },
     {
       "make": "Tesla",
+      "model": "Model Y Long Range AWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1619/Tesla-Model-Y-Long-Range-AWD"
+    },
+    {
+      "make": "Tesla",
       "model": "Model Y Performance",
       "years": [
         2024
@@ -3256,6 +6926,202 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1183/Tesla-Model-Y-Performance"
+    },
+    {
+      "make": "Tesla",
+      "model": "Model Y RWD (BYD LFP)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1974/Tesla-Model-Y-RWD"
+    },
+    {
+      "make": "Toyota",
+      "model": "Proace City Verso L1 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1779/Toyota-Proace-City-Verso-L1-50-kWh"
+    },
+    {
+      "make": "Toyota",
+      "model": "Proace City Verso L2 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1780/Toyota-Proace-City-Verso-L2-50-kWh"
+    },
+    {
+      "make": "Toyota",
+      "model": "Proace Shuttle L 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1610/Toyota-Proace-Shuttle-L-50-kWh"
+    },
+    {
+      "make": "Toyota",
+      "model": "Proace Shuttle L 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1612/Toyota-Proace-Shuttle-L-75-kWh"
+    },
+    {
+      "make": "Toyota",
+      "model": "Proace Shuttle M 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1609/Toyota-Proace-Shuttle-M-50-kWh"
+    },
+    {
+      "make": "Toyota",
+      "model": "Proace Shuttle M 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1611/Toyota-Proace-Shuttle-M-75-kWh"
+    },
+    {
+      "make": "Toyota",
+      "model": "Proace Verso L 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1513/Toyota-Proace-Verso-L-50-kWh"
+    },
+    {
+      "make": "Toyota",
+      "model": "Proace Verso L 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1515/Toyota-Proace-Verso-L-75-kWh"
+    },
+    {
+      "make": "Toyota",
+      "model": "Proace Verso M 50 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1512/Toyota-Proace-Verso-M-50-kWh"
+    },
+    {
+      "make": "Toyota",
+      "model": "Proace Verso M 75 kWh",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 100,
+      "maxACPowerKW": 7.4,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1514/Toyota-Proace-Verso-M-75-kWh"
+    },
+    {
+      "make": "Toyota",
+      "model": "bZ4X AWD (MY22-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 147,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1565/Toyota-bZ4X-AWD"
+    },
+    {
+      "make": "Toyota",
+      "model": "bZ4X FWD (MY22-24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 147,
+      "maxACPowerKW": 6.6,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1564/Toyota-bZ4X-FWD"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID. Buzz Pro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1651/Volkswagen-ID-Buzz-Pro"
     },
     {
       "make": "Volkswagen",
@@ -3287,6 +7153,20 @@
     },
     {
       "make": "Volkswagen",
+      "model": "ID.3 Pro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 124,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1531/Volkswagen-ID3-Pro"
+    },
+    {
+      "make": "Volkswagen",
       "model": "ID.3 Pro Performance",
       "years": [
         2024
@@ -3298,6 +7178,20 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1306/Volkswagen-ID3-Pro-Performance"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.3 Pro Performance",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 124,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1532/Volkswagen-ID3-Pro-Performance"
     },
     {
       "make": "Volkswagen",
@@ -3315,6 +7209,48 @@
     },
     {
       "make": "Volkswagen",
+      "model": "ID.3 Pro S - 4 Seats",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1533/Volkswagen-ID3-Pro-S---4-Seats"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.3 Pro S - 4 Seats",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 170,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1832/Volkswagen-ID3-Pro-S---4-Seats"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.3 Pro S - 5 Seats",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1534/Volkswagen-ID3-Pro-S---5-Seats"
+    },
+    {
+      "make": "Volkswagen",
       "model": "ID.3 Pure Performance",
       "years": [
         2024
@@ -3329,6 +7265,20 @@
     },
     {
       "make": "Volkswagen",
+      "model": "ID.3 Pure Performance",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 101,
+      "maxACPowerKW": 7.2,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1530/Volkswagen-ID3-Pure-Performance"
+    },
+    {
+      "make": "Volkswagen",
       "model": "ID.4 1st",
       "years": [
         2024
@@ -3340,6 +7290,62 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1273/Volkswagen-ID4-1st"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.4 GTX",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1494/Volkswagen-ID4-GTX"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.4 GTX",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1828/Volkswagen-ID4-GTX"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.4 Pro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 143,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1627/Volkswagen-ID4-Pro"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.4 Pro 4MOTION",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1702/Volkswagen-ID4-Pro-4MOTION"
     },
     {
       "make": "Volkswagen",
@@ -3382,6 +7388,118 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1411/Volkswagen-ID4-Pure-Performance"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.5 GTX",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1558/Volkswagen-ID5-GTX"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.5 GTX",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1914/Volkswagen-ID5-GTX"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.5 Pro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 143,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1556/Volkswagen-ID5-Pro"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.5 Pro",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 143,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1912/Volkswagen-ID5-Pro"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.5 Pro Performance",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 143,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1557/Volkswagen-ID5-Pro-Performance"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.5 Pro Performance",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 143,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1913/Volkswagen-ID5-Pro-Performance"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.7 Pro (MY24-25)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 190,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1839/Volkswagen-ID7-Pro"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "ID.7 Pro S (MY24-25)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 200,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1840/Volkswagen-ID7-Pro-S"
     },
     {
       "make": "Volkswagen",
@@ -3454,6 +7572,76 @@
       "url": "https://ev-database.org/car/1189/Volkswagen-e-Up"
     },
     {
+      "make": "Volkswagen",
+      "model": "e-Up!",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 37,
+      "maxACPowerKW": 7.2,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1650/Volkswagen-e-Up"
+    },
+    {
+      "make": "Volvo",
+      "model": "C40 Recharge Pure Electric (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 136,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1655/Volvo-C40-Recharge-Pure-Electric"
+    },
+    {
+      "make": "Volvo",
+      "model": "C40 Recharge Single Motor (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 135,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1799/Volvo-C40-Recharge-Single-Motor"
+    },
+    {
+      "make": "Volvo",
+      "model": "C40 Recharge Single Motor ER (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 205,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1800/Volvo-C40-Recharge-Single-Motor-ER"
+    },
+    {
+      "make": "Volvo",
+      "model": "C40 Recharge Twin Motor (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 205,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1801/Volvo-C40-Recharge-Twin-Motor"
+    },
+    {
       "make": "Volvo",
       "model": "C40 Recharge Twin Pure Electric (MY22)",
       "years": [
@@ -3466,6 +7654,90 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1421/Volvo-C40-Recharge-Twin-Pure-Electric"
+    },
+    {
+      "make": "Volvo",
+      "model": "EX30 Single Motor (MY24-26)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 134,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1909/Volvo-EX30-Single-Motor"
+    },
+    {
+      "make": "Volvo",
+      "model": "EX30 Single Motor ER (MY24-26)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 158,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1910/Volvo-EX30-Single-Motor-ER"
+    },
+    {
+      "make": "Volvo",
+      "model": "EX30 Twin Motor Performance (MY24-26)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 158,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1911/Volvo-EX30-Twin-Motor-Performance"
+    },
+    {
+      "make": "Volvo",
+      "model": "EX90 Single Motor (MY24-25)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1950/Volvo-EX90-Single-Motor"
+    },
+    {
+      "make": "Volvo",
+      "model": "EX90 Twin Motor (MY24-25)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1775/Volvo-EX90-Twin-Motor"
+    },
+    {
+      "make": "Volvo",
+      "model": "EX90 Twin Motor Performance (MY24-25)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 250,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1776/Volvo-EX90-Twin-Motor-Performance"
     },
     {
       "make": "Volvo",
@@ -3482,6 +7754,203 @@
       "url": "https://ev-database.org/car/1188/Volvo-XC40-P8-AWD-Recharge"
     },
     {
+      "make": "Volvo",
+      "model": "XC40 Recharge Pure Electric (MY22)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 136,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1539/Volvo-XC40-Recharge-Pure-Electric"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC40 Recharge Pure Electric (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 136,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1592/Volvo-XC40-Recharge-Pure-Electric"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC40 Recharge Single Motor (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 135,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1796/Volvo-XC40-Recharge-Single-Motor"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC40 Recharge Single Motor ER (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 205,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1797/Volvo-XC40-Recharge-Single-Motor-ER"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC40 Recharge Twin Motor (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 205,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1798/Volvo-XC40-Recharge-Twin-Motor"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC40 Recharge Twin Pure Electric (MY22)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 149,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1520/Volvo-XC40-Recharge-Twin-Pure-Electric"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC40 Recharge Twin Pure Electric (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 149,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1593/Volvo-XC40-Recharge-Twin-Pure-Electric"
+    },
+    {
+      "make": "XPENG",
+      "model": "G9 AWD Performance (MY24)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 319,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1826/XPENG-G9-AWD-Performance"
+    },
+    {
+      "make": "Zeekr",
+      "model": "001 Long Range RWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 200,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1933/Zeekr-001-Long-Range-RWD"
+    },
+    {
+      "make": "Zeekr",
+      "model": "001 Performance AWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 200,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1934/Zeekr-001-Performance-AWD"
+    },
+    {
+      "make": "Zeekr",
+      "model": "001 Privilege AWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 200,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1935/Zeekr-001-Privilege-AWD"
+    },
+    {
+      "make": "Zeekr",
+      "model": "X Long Range RWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 158,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1936/Zeekr-X-Long-Range-RWD"
+    },
+    {
+      "make": "Zeekr",
+      "model": "X Privilege AWD",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 158,
+      "maxACPowerKW": 22.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1937/Zeekr-X-Privilege-AWD"
+    },
+    {
+      "make": "e.GO",
+      "model": "e.wave X",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 150,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS",
+        "Type2"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1896/eGO-ewave-X"
+    },
+    {
       "make": "Škoda",
       "model": "CITIGOe iV",
       "years": [
@@ -3494,6 +7963,62 @@
       ],
       "region": "Europe",
       "url": "https://ev-database.org/car/1190/Skoda-CITIGOe-iV"
+    },
+    {
+      "make": "Škoda",
+      "model": "Enyaq Coupe iV 60 (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 124,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1628/Skoda-Enyaq-Coupe-iV-60"
+    },
+    {
+      "make": "Škoda",
+      "model": "Enyaq Coupe iV 80 (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 143,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1629/Skoda-Enyaq-Coupe-iV-80"
+    },
+    {
+      "make": "Škoda",
+      "model": "Enyaq Coupe iV 80x (MY23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1630/Skoda-Enyaq-Coupe-iV-80x"
+    },
+    {
+      "make": "Škoda",
+      "model": "Enyaq Coupe iV RS (MY22-23)",
+      "years": [
+        2024
+      ],
+      "maxDCPowerKW": 175,
+      "maxACPowerKW": 11.0,
+      "defaultConnectors": [
+        "CCS"
+      ],
+      "region": "Europe",
+      "url": "https://ev-database.org/car/1631/Skoda-Enyaq-Coupe-iV-RS"
     },
     {
       "make": "Škoda",
